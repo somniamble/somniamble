@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @matsuyani
-- 👀 I’m interested in pine resins
-- 🌱 I’m currently learning rust, how to hack with the lem text editor, and low-level sound programming
-- 💞️ I’m looking to collaborate on common lisp and rust projects
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ?
+Hi, I'm somni,
+
+I'm here to learn about low-level sound architecture, rust, and common lisp
 
 <!---
 matsuyani/matsuyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
