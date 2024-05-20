@@ -1,4 +1,4 @@
-Hi, I'm somni,
+Hi, call me somni
 
 I'm here to learn about low-level sound architecture, rust, and common lisp
 
