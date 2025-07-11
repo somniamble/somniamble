@@ -1,6 +1,4 @@
-Hi, call me somni
-
-I'm here to learn about low-level sound architecture, rust, and common lisp
+Hi, call me rosin
 
 Many of these repositories are write-only mirrors from my [sourcehut](https://git.sr.ht/~rosin/)
 
